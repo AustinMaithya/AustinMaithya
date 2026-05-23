@@ -10,9 +10,3 @@
 AustinMaithya/AustinMaithya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Austin Munyao Maithya
-
-## Machine Learning Projects
-- [Credit Risk Prediction](https://github.com/AustinMaithya/credit-risk)
-- [House Price Prediction](https://github.com/AustinMaithya/house-price)
-- [Customer Churn Model](https://github.com/AustinMaithya/churn)
