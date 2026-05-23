@@ -1,4 +1,4 @@
-WHAT'S GOOD!👋
+# WHAT'S GOOD!👋
 ## I am a data analyst deriving insights from data to give the most optimal solutions.
 ## Being an Economics and Statistics student did pave way to me being here.
 ## I have been constantly learning aand making shifts in my long term interests especially from data analysis only to also doing predictive modelling.
